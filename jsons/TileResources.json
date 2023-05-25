@@ -5,7 +5,7 @@
 		"terrainsCanBeFoundOn": ["Coast"],
             "gold": 1,
             "culture": 1,
-		"improvement": "Fishing Boats",
+		"improvement": "Seaworld",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [35] <in [Tundra] Regions>",
 					"Generated with weight [20] <in [Forest] Regions>",
@@ -60,7 +60,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 4,
-		"improvement": "Fishing Boats",
+		"improvement": "Seaworld",
 		"improvementStats": {"food": 4},
 		"uniques": ["Generated on every [40] tiles <in [Coast] tiles>"]
 	},
