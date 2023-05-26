@@ -1,0 +1,103 @@
+[	
+	{
+		"name": "Casa de Aves",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+5 Happiness] from [Loro] tiles [in this city]",
+			"[+5 Happiness] from [Emu] tiles [in this city]"],
+		"requiredTech": "Optics"
+	},
+      {
+		"name": "Casa de Reptiles",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+5 Happiness] from [Cocodrilo] tiles [in this city]",
+                  "[+5 Happiness] from [Yacare] tiles [in this city]",
+			"[+5 Happiness] from [Serpiente] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+      {
+		"name": "Casa Abstracta",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+5 Happiness] from [Rana] tiles [in this city]",
+			"[+5 Happiness] from [Jirafa] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+      {
+		"name": "Ketupat Sotong",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Food] from [Calamar] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+      {
+		"name": "Casa de Tapir",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Culture] from [Tapir] tiles [in this city]"],
+		"requiredTech": "Civil Service"
+	},
+      {
+		"name": "Casa de Frutas",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Food] from [Manzana] tiles [in this city]",
+                  "[+10 Food] from [Tomate] tiles [in this city]",
+                  "[+10 Food] from [Pera] tiles [in this city]",
+			"[+10 Food] from [Mango] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+      {
+		"name": "Casa de Frutas Tropicales",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Food] from [Cacao] tiles [in this city]",
+                  "[+10 Food] from [Durian] tiles [in this city]",
+                  "[+10 Food] from [Sandia] tiles [in this city]",
+			"[+10 Food] from [Aguacate] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+      {
+		"name": "Llanos",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Food] from [Armadillo] tiles [in this city]",
+                  "[+10 Food] from [Ciruela] tiles [in this city]",
+			"[+10 Food] from [Oso Hormiguero] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+      {
+		"name": "Poseciones Peligrosas",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Gold] from [Emu] tiles [in this city]",
+			"[+10 Gold] from [Erizo] tiles [in this city]"],
+		"requiredTech": "Civil Service"
+	},
+      {
+		"name": "Casa del Desierto",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Gold] from [Fennec] tiles [in this city]",
+			"[+10 Gold] from [Dromedario] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+      {
+		"name": "Estero",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Food] from [Nutria] tiles [in this city]",
+			"[+20 Food] from [Yacare] tiles [in this city]"],
+		"requiredTech": "Sailing"
+	},
+      {
+		"name": "Pajonal",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+10 Food] from [Liebre] tiles [in this city]",
+                  "[+10 Food] from [Pato] tiles [in this city]",
+			"[+10 Food] from [Jabali] tiles [in this city]"],
+		"requiredTech": "Construction"
+	},
+]
