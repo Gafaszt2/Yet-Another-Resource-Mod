@@ -471,4 +471,14 @@
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [500] tiles <in [Featureless] [Coast] tiles>"]
       },
+      {
+		"name": "Pez Tropical",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Coast"],
+            "gold": 2,
+            "food": 2,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [403] tiles <in [Coast] tiles>"]
+      },
 ]
