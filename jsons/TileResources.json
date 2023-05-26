@@ -1,0 +1,474 @@
+[	
+	{
+		"name": "Orca",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Coast"],
+            "gold": 1,
+            "culture": 1,
+		"improvement": "Seaworld",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [93] tiles <in [Coast] tiles>"]
+      },
+      {
+		"name": "Obsidiana",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Hill"],
+		"Culture": 3,
+		"improvement": "Mine",
+		"uniques": ["Generated with weight [2] <in [Tundra] Regions>",
+					"Generated with weight [12] <in [Jungle] Regions>",
+					"Generated with weight [7] <in [Hill] Regions>",
+					"Generated with weight [15] <in [Grassland] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
+	},
+      {
+		"name": "Calamar",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"food": 1,
+            "science": 1,
+		"improvement": "Fishing Boats",
+		"uniques": ["Generated on every [30] tiles <in [Featureless] [Coast] tiles>"]
+	},
+      {
+		"name": "Cabra",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"food": 1,
+            "culture": 1,
+		"improvement": "Pasture",
+            "uniques": ["Generated on every [60] tiles <in [Featureless] [Plains] tiles>"]
+	},
+      {
+		"name": "Sandia",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 3,
+		"improvement": "Plantation",
+		"uniques": ["Generated on every [30] tiles <in [Jungle] tiles>",
+					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
+	},
+      {
+		"name": "Foca",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"food": 4,
+		"improvement": "Seaworld",
+		"improvementStats": {"food": 4},
+		"uniques": ["Generated on every [40] tiles <in [Coast] tiles>"]
+	},
+      {
+		"name": "Tiburon Ballena",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"science": 3,
+		"gold": 2,
+		"improvement": "Fishing Boats",
+            "uniques": ["Generated on every [30] tiles <in [Ocean] tiles>"]
+	},
+      {
+		"name": "Tiburon",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"science": 2,
+		"food": 1,
+		"improvement": "Fishing Boats",
+            "uniques": ["Generated on every [40] tiles <in [Ocean] tiles>"]
+	},
+      {
+		"name": "Jade",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Hill"],
+		"culture": 1,
+            "gold": 1,
+		"improvement": "Mine",
+		"uniques": ["Generated with weight [30] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [62] <in [Hill] Regions>",
+					"Generated with weight [32] <in [Grassland] Regions>",
+					"Generated with weight [32] <in [Hybrid] Regions>",
+					"Generated near City States with weight [30]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
+      },
+      {
+		"name": "Fennec",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Desert"],
+		"gold": 2,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 2},
+		"uniques": ["Generated with weight [40] <in [Desert] Regions>",
+					"Generated near City States with weight [15]"]
+	},
+      {
+		"name": "Durian",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated on every [32] tiles <in [Jungle] tiles>",
+					"Generated on every [29] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
+      },
+      {
+		"name": "Hyena",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [30] tiles <in [Plains] tiles>"]
+      },
+      {
+		"name": "Oso",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Forest"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [30] tiles <in [Plains] tiles>"]
+      },
+      {
+		"name": "Jaguar",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [30] tiles <in [Plains] tiles>"]
+      },
+      {
+		"name": "Hipopotamo",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Marsh"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [70] tiles <in [Marsh] tiles>"]
+      },
+      {
+		"name": "Puma",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [30] tiles <in [Plains] tiles>"]
+      },
+      {
+		"name": "Cocodrilo",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Marsh","Flood plains"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [40] tiles <in [Marsh] tiles>"]
+      },
+      {
+		"name": "Leon",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [60] tiles <in [Plains] tiles>"]
+      },
+      {
+		"name": "Leopardo de las Nieves",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Tundra"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [30] tiles <in [Plains] tiles>"]
+      },
+      {
+		"name": "Tapir",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 2,
+            "happiness": 2
+		"improvement": "Camp",
+            "uniques": ["Generated on every [40] tiles <in [Jungle] tiles>"]
+	},
+      {
+		"name": "Oso Hormiguero",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 2,
+		"improvement": "Camp",
+            "uniques": ["Generated on every [40] tiles <in [Jungle] tiles>"]
+	},
+      {
+		"name": "Loro",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 2,
+            "happiness": 2
+		"improvement": "Camp",
+            "uniques": ["Generated on every [50] tiles <in [Jungle] tiles>"]
+	},
+      {
+		"name": "Erizo",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": 2,
+            "culture": 2,
+		"improvement": "Camp",
+            "uniques": ["Generated on every [70] tiles <in [Plains] tiles>"]
+	},
+      {
+		"name": "Emu",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"food": 3,
+            "culture": 6,
+		"improvement": "Camp",
+            "uniques": ["Generated on every [70] tiles <in [Hill] tiles>"]
+	},
+      {
+		"name": "Armadillo",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"science": 3,
+            "culture": 4,
+		"improvement": "Camp",
+            "uniques": ["Generated on every [150] tiles <in [Hill] tiles>"]
+	},
+      {
+		"name": "Aguacate",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 3,
+		"improvement": "Plantation",
+            "uniques": ["Generated on every [150] tiles <in [Jungle] tiles>"]
+	},
+      {
+		"name": "Cacao",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 6,
+		"improvement": "Plantation",
+            "uniques": ["Generated on every [180] tiles <in [Jungle] tiles>"]
+	},
+      {
+		"name": "Manzana",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Forest"],
+		"food": 6,
+		"improvement": "Plantation",
+            "uniques": ["Generated on every [200] tiles <in [Forest] tiles>"]
+	},
+      {
+		"name": "Mango",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Forest"],
+		"food": 6,
+		"improvement": "Plantation",
+            "uniques": ["Generated on every [200] tiles <in [Forest] tiles>"]
+	},
+      {
+		"name": "Delfin Amazonico",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Coast"],
+            "gold": 6,
+            "culture": 6,
+		"improvement": "Seaworld",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated with weight [50] <in [Jungle] Regions>"]
+      },
+      {
+		"name": "Jirafa",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+            "food": 3,
+            "culture": 4,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated with weight [150] <in [Forest] Regions>"]
+      },
+      {
+		"name": "Rana",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle"],
+            "food": 2,
+            "culture": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [10] tiles <in [Jungle] tiles>"]
+      },
+      {
+		"name": "Serpiente",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Forest"],
+            "food": 3,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [10] <in [Forest] tiles>"]
+      },
+      {
+		"name": "Oso Polar",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Snow"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [30] tiles <in [Snow] tiles>"]
+      },
+      {
+		"name": "Marsopa",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Coast"],
+            "food": 1,
+            "culture": 3,
+		"improvement": "Seaworld",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [403] tiles <in [Coast] tiles>"]
+      },
+      {
+		"name": "Dromedario",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Desert"],
+		"gold": 3,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 2},
+		"uniques": ["Generated on every [15] tiles <in [Featureless] [Desert] tiles>"]
+	},
+      {
+		"name": "Rinoceronte",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains"],
+            "gold": 5,
+            "culture": 3,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Plains] tiles>"]
+      },
+      {
+		"name": "Bufalo",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains", "Flood plains"],
+            "food": 2,
+            "production": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [15] tiles <in [Featureless] [Plains] tiles>"]
+      },
+      {
+		"name": "Liebre",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Flood plains"],
+            "food": 2,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [15] tiles <in [Featureless] [Grassland] tiles>"]
+      },
+      {
+		"name": "Jabali",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Flood plains"],
+            "food": 4,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [16] tiles <in [Featureless] [Grassland] tiles>"]
+      },
+      {
+		"name": "Pato",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Flood plains"],
+            "food": 3,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [17] tiles <in [Featureless] [Grassland] tiles>"]
+      },
+      {
+		"name": "Yacare",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Marsh","Flood plains"],
+		"food": -21,
+		"improvedBy": ["Zoo", "Area Protegida", "Laboratorio"],
+		"uniques": ["Generated on every [70] tiles <in [Marsh] tiles>"]
+      },
+      {
+		"name": "Nutria",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Marsh"],
+            "culture": 2,
+            "happiness": 2,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [70] tiles <in [Marsh] tiles>"]
+      },
+      {
+		"name": "Pera",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Forest"],
+            "food": 1,
+            "culture": 2,
+		"improvement": "Plantation",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [17] tiles <in [Featureless] [Forest] tiles>"]
+      },
+      {
+		"name": "Tomate",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Forest"],
+            "food": 3,
+            "production": 2,
+		"improvement": "Plantation",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [17] tiles <in [Featureless] [Forest] tiles>"]
+      },
+      {
+		"name": "Ciruela",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Forest"],
+            "food": 2,
+            "culture": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Forest] tiles>"]
+      },
+      {
+		"name": "Cuarzo",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland", "Hill"],
+            "production": 2,
+            "culture": 4,
+		"improvement": "Quarry",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Hill] tiles>"]
+      },
+      {
+		"name": "Pinguino",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Snow"],
+            "food": 3,
+            "science": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [17] tiles <in [Featureless] [Snow] tiles>"]
+      },
+      {
+		"name": "Albatross",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Snow"],
+            "food": 4,
+            "culture": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [27] tiles <in [Featureless] [Snow] tiles>"]
+      },
+      {
+		"name": "Gaviota",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Snow"],
+            "food": 5,
+            "production": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [37] tiles <in [Featureless] [Snow] tiles>"]
+      },
+      {
+		"name": "Morsa",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+            "food": 3,
+            "gold": 1,
+		"improvement": "Seaworld",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [500] tiles <in [Featureless] [Coast] tiles>"]
+      },
+]
