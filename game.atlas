@@ -584,8 +584,337 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementIcons/Zoo
   rotate: false
-  xy: 4, 4
+  xy: 4, 268
   size: 752, 752
   orig: 752, 752
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Aguacate
+  rotate: false
+  xy: 4, 235
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Albatross
+  rotate: false
+  xy: 37, 75
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Armadillo
+  rotate: false
+  xy: 764, 995
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bufalo
+  rotate: false
+  xy: 4, 202
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cabra
+  rotate: false
+  xy: 37, 235
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cacao
+  rotate: false
+  xy: 764, 962
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Calamar
+  rotate: false
+  xy: 797, 995
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Ciruela
+  rotate: false
+  xy: 4, 169
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Manzana
+  rotate: false
+  xy: 4, 169
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cocodrilo
+  rotate: false
+  xy: 37, 202
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Delfin Amazonico
+  rotate: false
+  xy: 70, 235
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Dromedario
+  rotate: false
+  xy: 764, 929
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Emu
+  rotate: false
+  xy: 797, 962
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Erizo
+  rotate: false
+  xy: 830, 995
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Fennec
+  rotate: false
+  xy: 4, 136
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Foca
+  rotate: false
+  xy: 37, 169
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Gaviota
+  rotate: false
+  xy: 70, 202
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hipopotamo
+  rotate: false
+  xy: 103, 235
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hyena
+  rotate: false
+  xy: 764, 896
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Jaguar
+  rotate: false
+  xy: 797, 929
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Jirafa
+  rotate: false
+  xy: 830, 962
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Leon
+  rotate: false
+  xy: 863, 995
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Leopardo de las Nieves
+  rotate: false
+  xy: 4, 103
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Liebre
+  rotate: false
+  xy: 37, 136
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Loro
+  rotate: false
+  xy: 70, 169
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mango
+  rotate: false
+  xy: 103, 202
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Marsopa
+  rotate: false
+  xy: 136, 235
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Morsa
+  rotate: false
+  xy: 764, 863
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Nutria
+  rotate: false
+  xy: 797, 896
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Orca
+  rotate: false
+  xy: 830, 929
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Oso
+  rotate: false
+  xy: 863, 962
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Oso Hormiguero
+  rotate: false
+  xy: 896, 995
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Oso Polar
+  rotate: false
+  xy: 4, 70
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pato
+  rotate: false
+  xy: 37, 103
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pera
+  rotate: false
+  xy: 70, 136
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pez Tropical
+  rotate: false
+  xy: 103, 169
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pinguino
+  rotate: false
+  xy: 136, 202
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Puma
+  rotate: false
+  xy: 169, 235
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rana
+  rotate: false
+  xy: 764, 830
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rinoceronte
+  rotate: false
+  xy: 797, 863
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sandia
+  rotate: false
+  xy: 830, 896
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Serpiente
+  rotate: false
+  xy: 863, 929
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tapir
+  rotate: false
+  xy: 896, 962
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tiburon
+  rotate: false
+  xy: 929, 995
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tiburon Ballena
+  rotate: false
+  xy: 4, 37
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tomate
+  rotate: false
+  xy: 4, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Yacare
+  rotate: false
+  xy: 70, 108
+  size: 20, 20
+  orig: 20, 20
   offset: 0, 0
   index: -1
