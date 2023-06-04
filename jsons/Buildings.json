@@ -2,6 +2,7 @@
 	{
 		"name": "Casa de Aves",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Loro", "Emu"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+5 Happiness] from [Loro] tiles [in this city]",
 			"[+5 Happiness] from [Emu] tiles [in this city]"],
@@ -10,6 +11,7 @@
       {
 		"name": "Casa de Reptiles",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Cocodrilo", "Serpiente", "Yacare"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+5 Happiness] from [Cocodrilo] tiles [in this city]",
                   "[+5 Happiness] from [Yacare] tiles [in this city]",
@@ -19,6 +21,7 @@
       {
 		"name": "Casa Abstracta",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Rana", "Jirafa"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+5 Happiness] from [Rana] tiles [in this city]",
 			"[+5 Happiness] from [Jirafa] tiles [in this city]"],
@@ -27,6 +30,7 @@
       {
 		"name": "Ketupat Sotong",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Calamar"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Food] from [Calamar] tiles [in this city]"],
 		"requiredTech": "Philosophy"
@@ -34,6 +38,7 @@
       {
 		"name": "Casa de Tapir",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Tapir"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Culture] from [Tapir] tiles [in this city]"],
 		"requiredTech": "Civil Service"
@@ -41,6 +46,7 @@
       {
 		"name": "Casa de Frutas",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Manzana", "Tomate", "Pera", "Mango"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Food] from [Manzana] tiles [in this city]",
                   "[+10 Food] from [Tomate] tiles [in this city]",
@@ -51,6 +57,7 @@
       {
 		"name": "Casa de Frutas Tropicales",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Cacao", "Durian", "Sandia", "Aguacate"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Food] from [Cacao] tiles [in this city]",
                   "[+10 Food] from [Durian] tiles [in this city]",
@@ -61,6 +68,7 @@
       {
 		"name": "Llanos",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Armadillo", "Ciruela", "Oso Hormiguero"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Food] from [Armadillo] tiles [in this city]",
                   "[+10 Food] from [Ciruela] tiles [in this city]",
@@ -70,6 +78,7 @@
       {
 		"name": "Poseciones Peligrosas",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Emu", "Erizo"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Gold] from [Emu] tiles [in this city]",
 			"[+10 Gold] from [Erizo] tiles [in this city]"],
@@ -78,13 +87,17 @@
       {
 		"name": "Casa del Desierto",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Fennec", "Malaquita", "Cactus", "Dromedario"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Gold] from [Fennec] tiles [in this city]",
+                        "[+2 Food] from [Cactus] tiles [in this city]",
+                        "[+2 Production] from [Malaquita] tiles [in this city]",
 			"[+10 Gold] from [Dromedario] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
       {
 		"name": "Estero",
+                "requiredNearbyImprovedResources": ["Nutria", "Yacare"],
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Food] from [Nutria] tiles [in this city]",
@@ -94,6 +107,7 @@
       {
 		"name": "Pajonal",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Liebre", "Pato", "Jabali"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+10 Food] from [Liebre] tiles [in this city]",
                   "[+10 Food] from [Pato] tiles [in this city]",
@@ -103,6 +117,7 @@
       {
 		"name": "Casa de Hielo",
 		"maintenance": 1,
+                "requiredNearbyImprovedResources": ["Albatross", "Pinguino", "Gaviota"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+4 Food] from [Albatross] tiles [in this city]",
                   "[+4 Food] from [Pinguino] tiles [in this city]",
