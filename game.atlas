@@ -584,22 +584,351 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementIcons/Zoo
   rotate: false
-  xy: 764, 764
+  xy: 764, 957
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 ResourceIcons/Tomate
   rotate: false
-  xy: 4, 764
+  xy: 4, 957
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 ResourceIcons/Yacare
   rotate: false
-  xy: 4, 4
+  xy: 4, 197
   size: 752, 752
   orig: 752, 752
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aguacate
+  rotate: false
+  xy: 4, 164
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Albatross
+  rotate: false
+  xy: 1656, 1689
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Armadillo
+  rotate: false
+  xy: 764, 924
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bufalo
+  rotate: false
+  xy: 1524, 1684
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cabra
+  rotate: false
+  xy: 4, 131
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cacao
+  rotate: false
+  xy: 37, 164
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Calamar
+  rotate: false
+  xy: 764, 891
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ciruela
+  rotate: false
+  xy: 797, 924
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Manzana
+  rotate: false
+  xy: 797, 924
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cocodrilo
+  rotate: false
+  xy: 1524, 1651
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Delfin Amazonico
+  rotate: false
+  xy: 1557, 1684
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dromedario
+  rotate: false
+  xy: 4, 98
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Emu
+  rotate: false
+  xy: 37, 131
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Erizo
+  rotate: false
+  xy: 70, 164
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fennec
+  rotate: false
+  xy: 764, 858
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Foca
+  rotate: false
+  xy: 797, 891
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gaviota
+  rotate: false
+  xy: 830, 924
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hipopotamo
+  rotate: false
+  xy: 1524, 1618
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hyena
+  rotate: false
+  xy: 1557, 1651
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jaguar
+  rotate: false
+  xy: 1590, 1684
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jirafa
+  rotate: false
+  xy: 4, 65
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Leon
+  rotate: false
+  xy: 37, 98
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Leopardo de las Nieves
+  rotate: false
+  xy: 70, 131
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Liebre
+  rotate: false
+  xy: 103, 164
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Loro
+  rotate: false
+  xy: 764, 825
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mango
+  rotate: false
+  xy: 797, 858
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marsopa
+  rotate: false
+  xy: 830, 891
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Morsa
+  rotate: false
+  xy: 863, 924
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Nutria
+  rotate: false
+  xy: 1524, 1585
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Orca
+  rotate: false
+  xy: 1557, 1618
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oso
+  rotate: false
+  xy: 1590, 1651
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oso Hormiguero
+  rotate: false
+  xy: 1623, 1684
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oso Polar
+  rotate: false
+  xy: 4, 32
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pato
+  rotate: false
+  xy: 37, 65
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pera
+  rotate: false
+  xy: 70, 98
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pez Tropical
+  rotate: false
+  xy: 103, 131
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pinguino
+  rotate: false
+  xy: 136, 164
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Puma
+  rotate: false
+  xy: 764, 792
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rana
+  rotate: false
+  xy: 797, 825
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rinoceronte
+  rotate: false
+  xy: 830, 858
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sandia
+  rotate: false
+  xy: 863, 891
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Serpiente
+  rotate: false
+  xy: 896, 924
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tapir
+  rotate: false
+  xy: 1524, 1552
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tiburon
+  rotate: false
+  xy: 1557, 1585
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tiburon Ballena
+  rotate: false
+  xy: 1590, 1618
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tomate
+  rotate: false
+  xy: 1623, 1651
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Yacare
+  rotate: false
+  xy: 4, 4
+  size: 20, 20
+  orig: 20, 20
   offset: 0, 0
   index: -1
