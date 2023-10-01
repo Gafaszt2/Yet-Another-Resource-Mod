@@ -474,12 +474,10 @@
       {
 		"name": "Pez Tropical",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Coast"],
+		"terrainsCanBeFoundOn": ["Lakes"],
             "gold": 1,
             "food": 1,
-		"improvement": "Fishing Boats",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated on every [403] tiles <in [Coast] tiles>"]
+		"uniques": ["Generated on every [100] tiles <in [Lakes] tiles>"]
       },
       {
 		"name": "Cactus",
@@ -501,4 +499,32 @@
 		"uniques": ["Generated on every [83] tiles <in [Desert] tiles>",
                            "Generated on every [20] tiles <in [Featureless] [Desert] tiles>"]
 	},
+        {
+		"name": "Okapi",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"culture": 1,
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+		"uniques": ["Generated on every [400] tiles <in [Plains] tiles>"]
+        },
+        {
+		"name": "Aguara Guazu",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"production": 1,
+		"improvement": "Farm",
+		"improvementStats": {"culture": 1},
+		"uniques": ["Generated on every [1100] tiles <in [Grassland] tiles>"]
+        },
+        {
+		"name": "Babuino",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [1100] tiles <in [Hill] tiles>"]
+        },
+      
 ]

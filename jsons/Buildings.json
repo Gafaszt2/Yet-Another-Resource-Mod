@@ -68,9 +68,10 @@
       {
 		"name": "Llanos",
 		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Armadillo", "Ciruela", "Oso Hormiguero"],
+                "requiredNearbyImprovedResources": ["Armadillo", "Aguara Guazu", "Ciruela", "Oso Hormiguero"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+3 Food] from [Armadillo] tiles [in this city]",
+                            "[+3 Food] from [Aguara Guazu] tiles [in this city]",
                   "[+3 Food] from [Ciruela] tiles [in this city]",
 			"[+3 Food] from [Oso Hormiguero] tiles [in this city]"],
 		"requiredTech": "Currency"
@@ -78,9 +79,11 @@
       {
 		"name": "Poseciones Peligrosas",
 		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Emu", "Erizo"],
+                "requiredNearbyImprovedResources": ["Emu", "Erizo", "Okapi", "Babuino"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+3 Gold] from [Emu] tiles [in this city]",
+                            "[+3 Gold] from [Okapi] tiles [in this city]",
+                            "[+3 Gold] from [Babuino] tiles [in this city]",
 			"[+3 Gold] from [Erizo] tiles [in this city]"],
 		"requiredTech": "Civil Service"
 	},
