@@ -516,6 +516,13 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Poseciones Peligrosas
   rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Planta Geotermica
+  rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
@@ -535,43 +542,36 @@ ResourceIcons/Pinguino
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Puma
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
 
 game17.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ImprovementIcons/Seaworld
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-ResourceIcons/Rana
+ResourceIcons/Puma
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Rinoceronte
+ResourceIcons/Rana
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Sandia
+ResourceIcons/Rinoceronte
   rotate: false
   xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sandia
+  rotate: false
+  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -582,28 +582,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ResourceIcons/Serpiente
+ImprovementIcons/Seaworld
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Tapir
+ResourceIcons/Serpiente
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Tiburon
+ResourceIcons/Tapir
   rotate: false
   xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Tiburon Ballena
+ResourceIcons/Tiburon
   rotate: false
   xy: 764, 4
   size: 752, 752
@@ -618,413 +618,441 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementIcons/Zoo
   rotate: false
-  xy: 764, 980
+  xy: 764, 292
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tiburon Ballena
+  rotate: false
+  xy: 4, 1052
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 ResourceIcons/Tomate
   rotate: false
-  xy: 4, 980
+  xy: 4, 292
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 ResourceIcons/Yacare
   rotate: false
-  xy: 4, 220
+  xy: 764, 1052
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Aguacate
   rotate: false
-  xy: 4, 184
+  xy: 4, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Aguara Guazu
   rotate: false
-  xy: 764, 944
+  xy: 1524, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Albatross
   rotate: false
-  xy: 1524, 1704
+  xy: 4, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Armadillo
   rotate: false
-  xy: 4, 148
+  xy: 44, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Babuino
   rotate: false
-  xy: 44, 184
+  xy: 1524, 1740
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Bufalo
   rotate: false
-  xy: 764, 908
+  xy: 1564, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cabra
   rotate: false
-  xy: 804, 944
+  xy: 4, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cacao
   rotate: false
-  xy: 1524, 1668
+  xy: 44, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cactus
   rotate: false
-  xy: 1564, 1704
+  xy: 84, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Calamar
   rotate: false
-  xy: 4, 112
+  xy: 1524, 1704
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ciruela
   rotate: false
-  xy: 44, 148
+  xy: 1564, 1740
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cocodrilo
   rotate: false
-  xy: 84, 184
+  xy: 1604, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cuarzo
   rotate: false
-  xy: 764, 872
+  xy: 4, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Delfin
   rotate: false
-  xy: 804, 908
+  xy: 44, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dodo
   rotate: false
-  xy: 844, 944
+  xy: 84, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dromedario
   rotate: false
-  xy: 1524, 1632
+  xy: 124, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Durian
   rotate: false
-  xy: 1564, 1668
+  xy: 1524, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Emu
   rotate: false
-  xy: 1604, 1704
+  xy: 1564, 1704
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Erizo
   rotate: false
-  xy: 4, 76
+  xy: 1604, 1740
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Fennec
   rotate: false
-  xy: 44, 112
+  xy: 1644, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Foca
   rotate: false
-  xy: 84, 148
+  xy: 4, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Gaviota
   rotate: false
-  xy: 124, 184
+  xy: 44, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hyena
   rotate: false
-  xy: 764, 836
+  xy: 84, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jabali
   rotate: false
-  xy: 804, 872
+  xy: 124, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jade
   rotate: false
-  xy: 844, 908
+  xy: 164, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jaguar
   rotate: false
-  xy: 884, 944
+  xy: 1524, 1632
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jirafa
   rotate: false
-  xy: 1524, 1596
+  xy: 1564, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Leopardo de las Nieves
   rotate: false
-  xy: 1564, 1632
+  xy: 1604, 1704
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/León
   rotate: false
-  xy: 1604, 1668
+  xy: 1644, 1740
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Liebre
   rotate: false
-  xy: 1644, 1704
+  xy: 1684, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Malaquita
   rotate: false
-  xy: 4, 40
+  xy: 4, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mango
   rotate: false
-  xy: 44, 76
+  xy: 44, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Manzana
   rotate: false
-  xy: 84, 112
+  xy: 84, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Marsopa
   rotate: false
-  xy: 124, 148
+  xy: 124, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Morsa
   rotate: false
-  xy: 164, 184
+  xy: 164, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Nutria
   rotate: false
-  xy: 764, 800
+  xy: 204, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Obsidiana
   rotate: false
-  xy: 804, 836
+  xy: 1524, 1596
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Okapi
   rotate: false
-  xy: 844, 872
+  xy: 1564, 1632
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Orca
   rotate: false
-  xy: 884, 908
+  xy: 1604, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Oso
   rotate: false
-  xy: 924, 944
+  xy: 1644, 1704
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Oso Hormiguero
   rotate: false
-  xy: 1524, 1560
+  xy: 1684, 1740
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pato
   rotate: false
-  xy: 1564, 1596
+  xy: 1724, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pera
   rotate: false
-  xy: 1604, 1632
+  xy: 4, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pez Tropical
   rotate: false
-  xy: 1644, 1668
+  xy: 44, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Phiomia
   rotate: false
-  xy: 1684, 1704
+  xy: 84, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pinguino
   rotate: false
-  xy: 4, 4
+  xy: 124, 148
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Planta Geotermica
+  rotate: false
+  xy: 164, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Puma
   rotate: false
-  xy: 44, 40
+  xy: 204, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rana
   rotate: false
-  xy: 84, 76
+  xy: 244, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rinoceronte
   rotate: false
-  xy: 124, 112
+  xy: 1524, 1560
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sandia
   rotate: false
-  xy: 164, 148
+  xy: 1564, 1596
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Serpiente
   rotate: false
-  xy: 204, 184
+  xy: 1604, 1632
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tapir
   rotate: false
-  xy: 764, 764
+  xy: 1644, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tiburon
   rotate: false
-  xy: 804, 800
+  xy: 1684, 1704
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tiburon Ballena
   rotate: false
-  xy: 844, 836
+  xy: 1724, 1740
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tomate
   rotate: false
-  xy: 884, 872
+  xy: 1764, 1776
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Volcanic Soil
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcano
+  rotate: false
+  xy: 44, 32
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Yacare
   rotate: false
-  xy: 924, 908
+  xy: 84, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
