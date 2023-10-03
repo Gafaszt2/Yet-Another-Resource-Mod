@@ -1,0 +1,78 @@
+[
+
+	{
+		"name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Campesinado","Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+        "row": 0,
+        "column": 0
+    },
+	{
+		"name": "Siervo I",
+		"uniques": ["[+5]% Strength <vs [Sword] units>", "[+2]% Strength <vs [Wounded] units>"],
+		"unitTypes": ["Campesinado"],
+        "column": 27,
+        "row": 1
+    },
+	{
+		"name": "Siervo II",
+		"prerequisites": ["Siervo I"],
+		"uniques": ["[+5]% Strength <vs [Sword] units>", "[+2]% Strength <vs [Wounded] units>"],
+		"unitTypes": ["Campesinado"],
+        "column": 27,
+        "row": 2
+    },
+	{
+		"name": "Siervo III",
+		"prerequisites": ["Siervo II"],
+		"uniques": ["[+5]% Strength <vs [Sword] units>", "[+2]% Strength <vs [Wounded] units>"],
+		"unitTypes": ["Campesinado"],
+        "column": 27,
+        "row": 3
+    },
+
+	{
+		"name": "Esclavo I",
+		"uniques": ["[+2]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"],
+		"unitTypes": ["Campesinado"],
+        "column": 28,
+        "row": 1
+	},
+	{
+		"name": "Esclavo II",
+		"prerequisites": ["Esclavo I"],
+		"uniques": ["[+2]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"],
+		"unitTypes": ["Campesinado"],
+        "column": 28,
+        "row": 2
+	},
+	{
+		"name": "Esclavo III",
+		"prerequisites": ["Esclavo II"],
+		"uniques": ["[+2]% Strength <vs [Wounded] units>", "[+5]% Strength <vs cities>"],
+		"unitTypes": ["Campesinado"],
+        "column": 28,
+        "row": 3
+	},
+{
+		"name": "Villano",
+		"uniques": ["All adjacent units heal [+10] HP when healing"],
+		"unitTypes": ["Campesinado"],
+        "column": 29,
+        "row": 1
+	},
+	{
+		"name": "Comandante",
+		"uniques": ["[+10]% Strength <vs [Wounded] units>", "[1] additional attacks per turn"],
+		"unitTypes": ["Campesinado"],
+        "column": 30,
+        "row": 1
+	},
+	{
+		"name": "Maestro Feudal",
+		"uniques": ["[+20]% to Flank Attack bonuses"],
+		"unitTypes": ["Campesinado"],
+        "column": 31,
+        "row": 1
+	},
+	]
