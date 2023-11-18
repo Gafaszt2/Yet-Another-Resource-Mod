@@ -127,4 +127,37 @@
 			"[+4 Food] from [Gaviota] tiles [in this city]"],
 		"requiredTech": "Optics"
 	},
+        {
+		"name": "Almacen de Fertilizante",
+                "food": 1,
+                "uniques": ["[+1 Food] per [2] [Farm]"],
+		"hurryCostModifier": 25,
+		"requiredResource": "Salitre"
+		"requiredTech": "Military Science"
+	},
+         {
+		"name": "Fabrica a Gas",
+		"cost": 430,
+		"production": 3,
+		"percentStatBonus": {"production": 7},
+		"specialistSlots": {"Engineer": 1},
+		"requiredBuilding": "Factory",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredResource": "Gas Natural",
+		"requiredTech": "Biology"
+	},
+         {
+		"name": "Planta Hidroelectrica",
+                "requiredNearbyImprovedResources": ["Agua Fresca"],
+		"cost": 430,
+		"production": 3,
+		"percentStatBonus": {"production": 7},
+		"specialistSlots": {"Engineer": 1},
+		"requiredBuilding": "Factory",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredResource": "Agua Fresca",
+		"requiredTech": "Biology"
+	},
 ]

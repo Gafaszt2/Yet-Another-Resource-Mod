@@ -42,4 +42,18 @@
 		"techRequired": "Atomic Theory",
 		"uniques": ["[+1 Production] <after discovering [Nuclear Fission]>", "Pillaging this improvement yields approximately [+10 Gold]"],
 	},
+        {
+		"name": "Hacienda",
+		"turnsToBuild": 2,
+		"techRequired": "Calendar",
+            "production": 1,
+		"uniques": ["[+1 Culture] for each adjacent [Plantation]", "[+1 Food] for each adjacent [Pasture]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+	},
+      {
+		"name": "Chinampa",
+		"turnsToBuild": 2,
+                "techRequired": "Pottery",
+            "production": 1,
+		"uniques": ["[+1 Food] for each adjacent [Farm]", "[+1 Food] for each adjacent [Pasture]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+	},
 ]
