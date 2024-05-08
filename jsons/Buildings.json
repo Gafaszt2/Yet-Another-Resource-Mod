@@ -130,7 +130,7 @@
         {
 		"name": "Almacen de Fertilizante",
                 "food": 1,
-                "uniques": ["[+1 Food] per [2] [Farm]"],
+                "uniques": ["[+1 Gold, +1 Food] from [Farm] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"requiredResource": "Salitre"
 		"requiredTech": "Military Science"
